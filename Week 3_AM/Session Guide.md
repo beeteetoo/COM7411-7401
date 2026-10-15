@@ -15,7 +15,7 @@
 
 ### Pre-session prep (both threads — *must be completed*)
 - **Student cards (release on each module's Moodle site before the session):** `Pre-Session Prep/COM7401 CAMPUS - Pre-Session Card - Week 3 AM.docx` and `Pre-Session Prep/COM7411 ONLINE - Pre-Session Card - Week 3 AM.docx`. They say what to do, in what order and why, with reading guides where there are readings.
-- `Pre-Session Prep/Grey Literature.pdf`, `Using_mixed_methods_research_designs_in_health_psy.pdf`, `iMAGE 1.png`
+- `Pre-Session Prep/Grey Literature.pdf`, `Using_mixed_methods_research_designs_in_health_psy.pdf`
 - **Ethics Core completed** (Thread A: Zoom 2 live; Thread B: the Ethics in Research Activity in the Week 2 bridge) and the module-labelled **Ethics Self-Assessment Worksheet** (`Ethics Pack (Independent Study)/COM7401 CAMPUS - Ethics Self-Assessment Worksheet.docx` or the COM7411 ONLINE equivalent) filled in — bring answers.
 - Bring the Funnel output and the Lit Review start from Week 2.
 

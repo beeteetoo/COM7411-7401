@@ -22,7 +22,6 @@
 - `Pre-Session Prep/OntologyCheatSheet.docx`, `EpistemologyCheatSheet.docx`, `AxologyCheatSheet.docx`, `DoxologyCheatSheet.docx`
 - `Pre-Session Prep/Introduction to positivism, interpretivism  critical theory.pdf`
 - `Pre-Session Prep/Al-Ababneh-LinkingOntologyEpistemologyandResearchMethodology-2020.pdf`
-- `Pre-Session Prep/Ontology.png` (visual aid)
 - Thread B: the task is the Week 1 bridge task, including the forum post (paper classification + epistemology paragraph) and one peer reply.
 
 ### Core task

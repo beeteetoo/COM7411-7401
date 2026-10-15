@@ -19,7 +19,6 @@
 ### Pre-session prep (both threads)
 - **Student cards (release on each module's Moodle site before the session):** `Pre-Session Prep/COM7401 CAMPUS - Pre-Session Card - Week 1 AM.docx` and `Pre-Session Prep/COM7411 ONLINE - Pre-Session Card - Week 1 AM.docx`. They say what to do, in what order and why, with reading guides where there are readings.
 - The skills and topic exercise is now written for students inside the pre-session card (the original tutor-facing activity description moved to `Facilitator Notes (Not for Students)/Tutor Notes - Are you already a researcher (Week 1 AM).docx`).
-- `Pre-Session Prep/Module Guide.webp`, `Module Guide2.png`, `Week1.jpeg` — decorative images only (no content); the card does not rely on them.
 - Skim the Assessment Brief (`26-27-B2-ModuleBox/0.2 Assessments&Moderation/`) — do not expect full understanding yet.
 - **Thread B only:** post a short intro in the Moodle forum (name, background, one topic area); test Zoom audio/video and the shared board.
 

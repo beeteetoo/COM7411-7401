@@ -24,6 +24,6 @@
 
 ## Pre-session cards (new)
 - [ ] Card written for each module (`Pre-Session Prep/COM7401 CAMPUS - Pre-Session Card ...` and `COM7411 ONLINE - ...`). No time estimates, as requested. Release each to its own Moodle site.
-- [ ] `iMAGE 1.png` is an AI-generated picture with misspelt and unreliable labels ("methedology", "exploiatory"). The card tells students not to rely on it. Remove or replace with a correct diagram?
+- [x] `iMAGE 1.png` (AI-generated, misspelt labels) removed from the student folder, as decided.
 - [ ] `Grey Literature.pdf` has no author or source in the file; add a reference.
 - [ ] Bishop (2015) is health psychology; the card focuses on design logic. Consider whether it is the best choice for computing students.
