@@ -10,3 +10,7 @@
 
 ## Risks
 - [ ] COM7411's final day is the deadline day itself: if the upload fails, students need a fast route to a human.
+
+## Pre-session cards (new)
+- [ ] Card written for each module (`Pre-Session Prep/COM7401 CAMPUS - Pre-Session Card ...` and `COM7411 ONLINE - ...`). No time estimates, as requested. Release each to its own Moodle site.
+- [ ] This session now has a Pre-Session Prep folder (cards only). Add the registration form and sign-in sheet arrangements.

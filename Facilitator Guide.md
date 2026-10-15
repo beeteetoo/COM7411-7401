@@ -69,6 +69,7 @@ Rules for staying in sync:
 
 ## 5. Folder contents
 - `Week N_AM` / `Week N_PM` — `Session Slides/` (decks forked per module), `Pre-Session Prep/`, `In-Class Activity/`, and the dual-thread `Session Guide.md`.
+- Each `Pre-Session Prep/` also holds a per-module **Pre-Session Card** for that session (release to each module's own Moodle site).
 - `Zoom Sessions/` — campus-only Zoom hour (see `Zoom Facilitator Notes.md`).
 - `Ethics Pack (Independent Study)/` — ethics readings and the Self-Assessment Worksheet (no dedicated ethics session).
 - `Facilitator Notes (Not for Students)/` — lecturer-only answer sheets; keep out of student-facing spaces.

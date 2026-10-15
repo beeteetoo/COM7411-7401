@@ -15,6 +15,7 @@
 - Their **oral-defence check** (issued this week by a pre-generated balanced list; working definitions in `Facilitator Notes (Not for Students)/DRAFT - Four Checks Working Definitions.md`, allocation script in `Facilitator Notes (Not for Students)/Tools/allocate_checks.py`).
 
 ### Pre-session prep (both threads)
+- **Student cards (release on each module's Moodle site before the session):** `Pre-Session Prep/COM7401 CAMPUS - Pre-Session Card - Week 4 PM.docx` and `Pre-Session Prep/COM7411 ONLINE - Pre-Session Card - Week 4 PM.docx`. They say what to do, in what order and why, with reading guides where there are readings.
 - `Pre-Session Prep/Qualitative_Research_Projects_in_Computi.pdf`, `CritiquingResearchQUAL.pdf`, `QUAL.png`
 - Content/narrative/grounded-theory analysis are "other methods you may encounter" reading — **not** taught live.
 - Thread B: the qualitative worked-example recording (Week 3→4 bridge).

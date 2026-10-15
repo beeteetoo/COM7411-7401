@@ -14,6 +14,7 @@
 - A decision on their overall analysis route (quant / qual / mixed) so they can draft the analysis paragraph before the deadline.
 
 ### Pre-session prep (both threads)
+- **Student cards (release on each module's Moodle site before the session):** `Pre-Session Prep/COM7401 CAMPUS - Pre-Session Card - Week 4 AM.docx` and `Pre-Session Prep/COM7411 ONLINE - Pre-Session Card - Week 4 AM.docx`. They say what to do, in what order and why, with reading guides where there are readings.
 - `Pre-Session Prep/AI Worksheet .docx` is now an **optional extension** only: it asks students to research an AI vendor platform, which this session deliberately leaves out. The AI and declaration rules are taught in the tools demo (Zoom 3 / recording).
 - **Tools demo** watched (Thread A: Zoom 3 live; Thread B: recording from the Week 3→4 bridge).
 - Bring the data collection plan from Week 3 PM.

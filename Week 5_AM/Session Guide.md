@@ -19,6 +19,7 @@
 - The report cannot be revised; defend what was submitted.
 
 ### Pre-session prep (both threads)
+- **Student cards (release on each module's Moodle site before the session):** `Pre-Session Prep/COM7401 CAMPUS - Pre-Session Card - Week 5 AM.docx` and `Pre-Session Prep/COM7411 ONLINE - Pre-Session Card - Week 5 AM.docx`. They say what to do, in what order and why, with reading guides where there are readings.
 - Re-read the submitted report; know your research question(s) word for word.
 - Read the Assessment Brief section on Part B and the oral-defence criterion.
 - Read `Pre-Session Prep/Oral Defence - A Guide to the Four Checks.docx` (course-team working guide) and the section on your assigned check.

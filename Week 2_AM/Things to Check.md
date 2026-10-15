@@ -22,3 +22,11 @@
 ## Deck checks (open in PowerPoint)
 - [ ] "What's it all about", "Applying the Funnel Stratagem" and "Interdisciplinary Nature of Research" have legacy text overlaps from the original.
 - [ ] Closing sequence restored: Modern Science cartoon slide → Reflection → Questions.
+
+## Pre-session cards (new)
+- [ ] Card written for each module (`Pre-Session Prep/COM7401 CAMPUS - Pre-Session Card ...` and `COM7411 ONLINE - ...`). No time estimates, as requested. Release each to its own Moodle site.
+- [ ] **Chapter citation.** `READING - a must.pdf` has no title page; I could not identify its book. The card calls it "Selecting and planning good research projects (chapter)". Please supply the reference for the reading list.
+- [ ] That chapter says to avoid projects that are "too technical", which is wrong advice for a computing programme. The card asks students to challenge it.
+- [ ] `Reading - the funnel Method.pdf` is a scanned image (no selectable text), which fails screen readers. Replace with a text version if you can; it is Mbanaso et al. (2023), Chapter 4.
+- [ ] Praharaj and Ameen (2020) is medical; the card asks students to map the PICO idea to computing.
+- [ ] The literature searching demo recording and the Question-types deck release are prerequisites.

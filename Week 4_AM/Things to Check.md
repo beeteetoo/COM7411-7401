@@ -17,3 +17,8 @@
 
 ## Deck checks (open in PowerPoint)
 - [ ] Technique cards on the two technique slides; the tools table.
+
+## Pre-session cards (new)
+- [ ] Card written for each module (`Pre-Session Prep/COM7401 CAMPUS - Pre-Session Card ...` and `COM7411 ONLINE - ...`). No time estimates, as requested. Release each to its own Moodle site.
+- [ ] The AI worksheet is described to students as optional. Say if you want it removed from the folder.
+- [ ] The card tells students to know their report plan; the Friday/Saturday deadline wording follows the brief.

@@ -17,3 +17,9 @@
 
 ## Deck checks (open in PowerPoint)
 - [ ] "Step 4: from concepts to categories" (table close to the callout) and the online "Report surgery" table.
+
+## Pre-session cards (new)
+- [ ] Card written for each module (`Pre-Session Prep/COM7401 CAMPUS - Pre-Session Card ...` and `COM7411 ONLINE - ...`). No time estimates, as requested. Release each to its own Moodle site.
+- [ ] `QUAL.png` is an AI-generated coding-cycle picture with garbled labels ("Tenstant seporation"); the card tells students not to use it. Remove or replace?
+- [ ] The Ryan, Coughlan and Cronin paper is a scan with OCR errors, and the PDF does not state the journal; the card says "a nursing journal". Add the full reference.
+- [ ] Berglund, Daniels and Pears is ACE 2006 (from the PDF footer).

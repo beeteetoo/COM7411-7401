@@ -17,3 +17,8 @@
 
 ## Deck checks (open in PowerPoint)
 - [ ] "The four checks" table and "Plan your recording" table (close to the footer).
+
+## Pre-session cards (new)
+- [ ] Card written for each module (`Pre-Session Prep/COM7401 CAMPUS - Pre-Session Card ...` and `COM7411 ONLINE - ...`). No time estimates, as requested. Release each to its own Moodle site.
+- [ ] The card refers to the checks guide, which uses working definitions awaiting the module lead's sign-off.
+- [ ] It tells students to write notes on their check, not a script; wording follows the brief's misconduct line.

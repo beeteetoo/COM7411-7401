@@ -14,6 +14,7 @@
 - A note of any ethics implications of the method chosen (link back to Week 3 AM).
 
 ### Pre-session prep (both threads)
+- **Student cards (release on each module's Moodle site before the session):** `Pre-Session Prep/COM7401 CAMPUS - Pre-Session Card - Week 3 PM.docx` and `Pre-Session Prep/COM7411 ONLINE - Pre-Session Card - Week 3 PM.docx`. They say what to do, in what order and why, with reading guides where there are readings.
 - Bring the Week 3 AM Research Design Framework output.
 - **Primer written:** `Pre-Session Prep/Sampling and Data Collection Primer.docx` (sampling theory, measurement scales, instrument design). Thread A uses it as a handout; Thread B as the primer or recorded micro-lectures (see Week 3 AM bridge).
 

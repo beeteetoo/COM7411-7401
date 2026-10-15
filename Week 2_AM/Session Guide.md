@@ -16,6 +16,7 @@
 - A confirmed **candidate source** for critical appraisal in Session 2.
 
 ### Pre-session prep (both threads — complete before the session)
+- **Student cards (release on each module's Moodle site before the session):** `Pre-Session Prep/COM7401 CAMPUS - Pre-Session Card - Week 2 AM.docx` and `Pre-Session Prep/COM7411 ONLINE - Pre-Session Card - Week 2 AM.docx`. They say what to do, in what order and why, with reading guides where there are readings.
 - **`Pre-Session Prep/Literature Search Task.docx`** (~75 min): build search terms, search two sources, keep a log, triage three sources (anchor, backward, forward), choose a candidate and note one gap. Uses a short recorded **literature searching demo** (outline: `Facilitator Notes (Not for Students)/Recording Outline - Literature Searching Demo.md`) and the Backward/Forward Searching worksheet from the Week 2 Session 2 prep.
 - Readings: `How to Choose a Research Topuc Praharaj et-al 2020.pdf`, `READING - a must.pdf`, `Reading - the funnel Method.pdf`.
 - **Question-types pre-reading deck** (`To be issues after week 1 PM/Research question Types pptx.pptx`), issued after Week 1 Session 2.

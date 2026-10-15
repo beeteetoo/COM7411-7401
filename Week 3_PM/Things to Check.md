@@ -21,3 +21,7 @@
 
 ## Deck checks (open in PowerPoint)
 - [ ] Look for overflow on "Interviews: merits and limits", "Probability and non-probability sampling" and "Measurement scales" (tables near the footer).
+
+## Pre-session cards (new)
+- [ ] Card written for each module (`Pre-Session Prep/COM7401 CAMPUS - Pre-Session Card ...` and `COM7411 ONLINE - ...`). No time estimates, as requested. Release each to its own Moodle site.
+- [ ] The card tells students to answer the primer's closing questions; the live poll relies on this.

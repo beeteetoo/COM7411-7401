@@ -19,3 +19,9 @@
 
 ## Open items
 - [ ] Timeline slide lists sessions only; it does not show the Thursday Zoom for campus — leave off, or add for the campus fork?
+
+## Pre-session cards (new)
+- [ ] Card written for each module (`Pre-Session Prep/COM7401 CAMPUS - Pre-Session Card ...` and `COM7411 ONLINE - ...`). No time estimates, as requested. Release each to its own Moodle site.
+- [ ] **Tutor document moved.** `Week 1 Are you already a researcher.docx` was in the student prep folder but is written for tutors ("brainstorm with your students", "write on your board") and mentions "dissertation". I moved it to Facilitator Notes and wrote a student-facing skills and topic exercise into the card. Its "What you already know is that research?" task on Moodle may need a matching student version.
+- [ ] **Images.** `Module Guide.webp`, `Module Guide2.png` and `Week1.jpeg` are decorative AI images with no content (one reads "FOLLOUT 4 GUIDE"). Remove from the student folder?
+- [ ] Card says the brief is on the module's Moodle page and quotes the deadlines per module.

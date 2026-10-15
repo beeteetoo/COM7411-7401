@@ -14,6 +14,7 @@
 - Make sure every student submits a compliant recording: 4 min ±30 s, states the research question(s) as submitted, names the check, no GAI, no scripts.
 
 ### What students bring
+- **Student cards (release on each module's Moodle site before the session):** `Pre-Session Prep/COM7401 CAMPUS - Pre-Session Card - Week 5 PM.docx` and `Pre-Session Prep/COM7411 ONLINE - Pre-Session Card - Week 5 PM.docx`. They say what to do, in what order and why, with reading guides where there are readings.
 - Their submitted report, their assigned check, and any draft recording or rehearsal notes.
 - Their laptop/phone, and headset if possible.
 

@@ -15,6 +15,7 @@
 - A **critical paragraph** (summarise → evaluate → connect) and a note of how a different stance would criticise the paper — the opening of the Critical Literature Review section.
 
 ### Pre-session prep (both threads)
+- **Student cards (release on each module's Moodle site before the session):** `Pre-Session Prep/COM7401 CAMPUS - Pre-Session Card - Week 2 PM.docx` and `Pre-Session Prep/COM7411 ONLINE - Pre-Session Card - Week 2 PM.docx`. They say what to do, in what order and why, with reading guides where there are readings.
 - The **Literature Search Task** output: search log, three sources, and a chosen candidate (from Week 2 AM).
 - Their **Stance Card** and draft research question.
 - Reference material (optional depth, not required for everyone): `Pre-Session Prep/Student_Worksheet_Literature_Reviews.docx`, `Critical Evaluation Checklist.docx`, `Critical Evaluation Worksheet.docx` (the long two-article version — now an optional extension), `Critiquing Research Papers.docx`, `Backward_Forward_Searching_Worksheet.docx`, PRISMA files, `LitReviews.jpg`.

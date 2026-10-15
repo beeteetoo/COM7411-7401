@@ -15,6 +15,7 @@
 - A written **provisional ontological position** for their own proposed research (3–4 sentences), kept for Week 2 AM.
 
 ### Pre-session prep (both threads — must be done *before* the session)
+- **Student cards (release on each module's Moodle site before the session):** `Pre-Session Prep/COM7401 CAMPUS - Pre-Session Card - Week 1 PM.docx` and `Pre-Session Prep/COM7411 ONLINE - Pre-Session Card - Week 1 PM.docx`. They say what to do, in what order and why, with reading guides where there are readings.
 - **COM7411 Online:** `Week 1_PM/Pre-Session Prep/COM7411 ONLINE - Philosophical Stance Task.docx` (about 2½ hours; ~55% epistemology; formative, unmarked) — the Week 1 bridge task. The items below are the resources it draws on.
 - **COM7401 On Campus:** the items below are the pre-reading *before* the debate. The campus Stance Task comes *after* the session (`Zoom Sessions/Zoom Day1/COM7401 CAMPUS - Philosophical Stance Task (after Week 1, completed in Zoom 1).docx`) and is completed in Zoom 1.
 - Lecturer copy for both: `Facilitator Notes (Not for Students)/Lecturer_Copy-Philosophical Stance Task (COM7401 + COM7411).docx`.

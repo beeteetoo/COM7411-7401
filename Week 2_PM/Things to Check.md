@@ -22,3 +22,8 @@
 ## Deck checks (open in PowerPoint)
 - [ ] The five review-type slides have small text (original); the "What's it all about" slide has an overflow at the bottom.
 - [ ] Closing sequence restored: Modern Science cartoon slide → Reflection → Questions.
+
+## Pre-session cards (new)
+- [ ] Card written for each module (`Pre-Session Prep/COM7401 CAMPUS - Pre-Session Card ...` and `COM7411 ONLINE - ...`). No time estimates, as requested. Release each to its own Moodle site.
+- [ ] The card sets priorities among the optional files: required are the candidate paper and the Critical Evaluation Checklist; the review types worksheet is "if unsure"; PRISMA, the long worksheet and Critiquing Research Papers are optional. Confirm.
+- [ ] Online students must post to the Ethics cases forum before Saturday; the card says so.

@@ -23,3 +23,9 @@
 
 ## Open items
 - [ ] Integrated Research Philosophy Challenge is no longer in the session; keep as an optional extension in Facilitator Notes?
+
+## Pre-session cards (new)
+- [ ] Card written for each module (`Pre-Session Prep/COM7401 CAMPUS - Pre-Session Card ...` and `COM7411 ONLINE - ...`). No time estimates, as requested. Release each to its own Moodle site.
+- [ ] **Load.** The folder holds four cheat sheets, two papers and (online) the Stance Task. The card sets priorities: Ontology cheat sheet first, Epistemology properly, Axiology and Doxology skimmed. Confirm this suits the debate.
+- [ ] `Ontology.png` is a decorative picture ("Research Philosophy") that explains nothing; the card says so. Remove?
+- [ ] Ryan (2018) is written for nurses and Al-Ababneh (2020) is a general review; focus questions steer students to the paradigm sections.
