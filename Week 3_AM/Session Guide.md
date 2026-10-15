@@ -2,7 +2,7 @@
 
 **Maps to:** LO2; IC1, IC2 (design; quant/qual/mixed); embedded IC5 (ethics/governance) checkpoint
 **Portfolio link:** First draft of the Proposed Methodology (~900 words): design and ethical/governance considerations specific to the student's proposal — the brief penalises generic ethics content.
-**Status:** Pass 1 (dual-thread). Deck not yet edited (Pass 2). Thread A = COM7401 campus; Thread B = COM7411 online (Monday evening).
+**Status:** Pass 1 (dual-thread) and Pass 2 done: decks `Research Design (COM7401 On Campus).pptx` and `(COM7411 Online).pptx`. Thread A = COM7401 campus; Thread B = COM7411 online (Monday evening).
 
 ---
 
@@ -15,7 +15,7 @@
 
 ### Pre-session prep (both threads — *must be completed*)
 - `Pre-Session Prep/Grey Literature.pdf`, `Using_mixed_methods_research_designs_in_health_psy.pdf`, `iMAGE 1.png`
-- **Ethics Core completed** (Zoom 2 live for Thread A / recording for Thread B) and the **Ethics Self-Assessment Worksheet** (`Ethics Pack (Independent Study)/Ethics Self-Assessment Worksheet.md`) filled in — bring answers.
+- **Ethics Core completed** (Thread A: Zoom 2 live; Thread B: the Ethics in Research Activity in the Week 2 bridge) and the module-labelled **Ethics Self-Assessment Worksheet** (`Ethics Pack (Independent Study)/COM7401 CAMPUS - Ethics Self-Assessment Worksheet.docx` or the COM7411 ONLINE equivalent) filled in — bring answers.
 - Bring the Funnel output and the Lit Review start from Week 2.
 
 ### Core task
@@ -63,7 +63,7 @@ Moved to prep: the remaining mixed-methods patterns and case studies.
 
 **Bridge task (Mon → Sat, ~45 min):**
 1. Finish the Design Framework and write a 100-word "design rationale" paragraph.
-2. Read the Week 3 PM primer (sampling and data collection) or watch the recorded sampling micro-lectures (sampling theory, measurement scales, instrument design). These are the topics trimmed from live delivery.
+2. Read `Week 3_PM/Pre-Session Prep/Sampling and Data Collection Primer.docx` or watch the recorded sampling micro-lectures (outlines in `Facilitator Notes (Not for Students)/Recording Outlines - Bridge Resources.md`): sampling, measurement scales, instrument design. These are the topics trimmed from live delivery.
 3. Bring the design output to Saturday.
 
 ---

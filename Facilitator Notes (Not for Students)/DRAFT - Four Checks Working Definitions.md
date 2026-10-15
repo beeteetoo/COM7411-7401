@@ -1,6 +1,6 @@
 # DRAFT - Four Checks: working definitions and allocation
 
-**Status: working draft, NOT from the module team.** The module team has not supplied definitions (Facilitator Guide, open item 2). These are inferred from the check names in the assessment brief and written so the Week 4 and Week 5 materials can be finished. If the module lead supplies an authoritative source, replace this file and re-check Week 4 PM, Week 5 AM and Zoom 4 and 5. Every guide should link here rather than restate the definitions.
+**Status: working draft, NOT from the module team.** The module team has not supplied definitions (Facilitator Guide, open item 2). These are inferred from the check names in the assessment brief and written so the Week 4 and Week 5 materials can be finished. If the module lead supplies an authoritative source, replace this file and re-check Week 4 PM, Week 5 AM and Zoom 4 and 5. Used by: `Week 5_AM/Pre-Session Prep/Oral Defence - A Guide to the Four Checks.docx`, the Week 5 AM deck ("The four checks"), `Model Defence - Tutor Outline.md` and `Tools/allocate_checks.py` (allocation). Every guide should link here rather than restate the definitions.
 
 The brief fixes only the names and the marker's test: the recording states the research question, names the assigned check, responds to it directly, and stays within 4 minutes (±30 s). It sets no definitions, so what follows is consistent with the brief but is an interpretation.
 

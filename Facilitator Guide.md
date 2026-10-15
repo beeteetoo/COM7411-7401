@@ -2,7 +2,7 @@
 
 Companion to the ten `Week N_AM/PM/Session Guide.md` files and `Zoom Sessions/Zoom Facilitator Notes.md`. Project rules and open items live in `CLAUDE.md`.
 
-**Status:** Pass 1 (guides) complete. Pass 2 (slide decks, one at a time) not started — no .pptx has been edited.
+**Status:** Pass 1 (guides) and Pass 2 (decks) complete: every session has a COM7401 and a COM7411 deck, plus Zoom 2 to 5 decks (campus). See each folder's `Things to Check.md` for assumptions and decisions awaiting you.
 
 ## 1. The two threads at a glance
 
@@ -68,11 +68,11 @@ Rules for staying in sync:
 | Week 5 PM | Assignment support | Register + drop-in clinic | **Oral defence due end of Week 5** |
 
 ## 5. Folder contents
-- `Week N_AM` / `Week N_PM` — `Session Slides/` (original .pptx, untouched until Pass 2), `Pre-Session Prep/`, `In-Class Activity/`, and the dual-thread `Session Guide.md`.
+- `Week N_AM` / `Week N_PM` — `Session Slides/` (decks forked per module), `Pre-Session Prep/`, `In-Class Activity/`, and the dual-thread `Session Guide.md`.
 - `Zoom Sessions/` — campus-only Zoom hour (see `Zoom Facilitator Notes.md`).
 - `Ethics Pack (Independent Study)/` — ethics readings and the Self-Assessment Worksheet (no dedicated ethics session).
 - `Facilitator Notes (Not for Students)/` — lecturer-only answer sheets; keep out of student-facing spaces.
-- `PPTX Edit Instructions.md` — deck-edit notes, to be revised deck by deck in Pass 2.
+- `PPTX Edit Instructions.md` — what each deck contains and what was removed.
 
 ## 6. Ethics (no dedicated session)
 Ethics Core is delivered **live in Zoom 2 to COM7401** (Thursday of Week 2). **COM7411** completes an out-of-class **Ethics in Research Activity** (principles, six cases with forum posts and replies, a reading, a governance check) in the Week 2 bridge, with a short debrief in Week 2 PM. Both modules then complete their own module-labelled **Ethics Self-Assessment Worksheet** before **Week 3 AM**, where a ~20-minute ethics-in-design checkpoint is the only face-to-face (or live) ethics teaching and evidences LO2.
@@ -84,14 +84,14 @@ Ethics Core is delivered **live in Zoom 2 to COM7401** (Thursday of Week 2). **C
 
 ## 8. Known pressure points
 1. **COM7411 Week 4 Saturday.** The Week 4 PM session and the report deadline fall on the same day. Mitigation built into the guides: analysis approach (quant and qual) is decided in the Week 4 bridge; the qualitative worked example is released as a recording before Week 4 AM; Saturday is used for report surgery and the check issue. **Confirm the deadline time.**
-2. **Four checks.** Definitions and allocation mechanism need to be supplied by the module team before Week 4 / Week 5 guides can be finalised.
-3. **Week 3 PM has no pre-reading** — a short sampling/data collection primer is recommended (and doubles as the online recorded micro-lecture).
+2. **Four checks.** The module team has not supplied definitions or an allocation mechanism. Working definitions are in `Facilitator Notes (Not for Students)/DRAFT - Four Checks Working Definitions.md`, with a student guide, a model defence outline and an allocation script. All are awaiting the module lead's sign-off.
+3. **Week 3 PM primer written** (`Week 3_PM/Pre-Session Prep/Sampling and Data Collection Primer.docx`); the online recorded micro-lectures follow it (outline in `Recording Outlines - Bridge Resources.md`).
 
 ## 9. Outstanding actions
-**Pass 2 (decks), in order, pausing after each:** Week 1 AM, Week 1 PM, Week 2 AM, Week 2 PM, Week 3 AM, Week 3 PM, Week 4 AM, Week 4 PM, Week 5 AM, Week 5 PM; plus Zoom decks (Zoom 1–5; ethics deck reused for Zoom 2).
-**Also still to align with this structure:**
-- `Zoom Sessions/Zoom Day1–5 Guide.md` (individual guides still describe the old order)
-- `Week 5_AM/In-Class Activity/Portfolio Peer-Review Workshop.md` and `Week 5_PM/In-Class Activity/Presentation Day - Submission Checklist.md` (old model)
-- `PPTX Edit Instructions.md` (revise per deck)
-- Decide whether to delete the duplicate `Formulating research questions and paradigms.pptx` in Week 2_AM (keep the `.v2pptx` version)
-- Record: Literature searching demo (outline written; used by both modules), Sampling primer, Qual worked example, Tools demo (shared by both threads)
+**Done:** Pass 1 guides; Pass 2 decks (Weeks 1 to 5, both modules; Zoom 2 to 5); Zoom run sheets and guides; Week 5 activity files; COM7411 brief wording amendments (see the Week 4 PM and Zoom notes).
+**For you:**
+- Sign-off of the four-check working definitions and the allocation approach (module lead, when reachable); run `Tools/allocate_checks.py` on the real roster before Week 4.
+- Record: Literature searching demo, sampling micro-lectures, qualitative worked example, tools demo (outlines in `Facilitator Notes (Not for Students)/`).
+- Moodle set-up listed in each `Things to Check.md` (including the COM7411 "Ethics cases" forum and the report and defence deadline times).
+- Open each deck in PowerPoint once to check for overflow (checked in LibreOffice only).
+- Legacy files left untouched and worth a decision: `Ethics Pack (Independent Study)/Wek 9Ethics tasks.pptx` and the optional `AI Worksheet .docx`.

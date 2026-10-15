@@ -2,7 +2,7 @@
 
 **Maps to:** LO1, LO2, LO3 (Part B — recorded oral defence)
 **Portfolio link:** Final support before the oral-defence deadline (end of Week 5: COM7401 Fri 4 Dec 2026; COM7411 Sat 5 Dec 2026). **Students must register attendance** and then use the session for the help they need. No new teaching.
-**Status:** Pass 1 (dual-thread). No deck needed. Thread A = COM7401 on-campus assignment support; Thread B = COM7411 online assignment support (Saturday morning, deadline day).
+**Status:** Pass 1 (dual-thread) and Pass 2 done: short on-screen decks `Assignment Support (COM7401 On Campus).pptx` and `(COM7411 Online).pptx` (registration, help categories, checklist). Thread A = COM7401 on-campus assignment support; Thread B = COM7411 online assignment support (Saturday morning, deadline day).
 
 ---
 
@@ -24,7 +24,7 @@
 4. **Alignment conversation** — talking through how a method answers the research question.
 
 ### Core task
-Use the **Submission Checklist** in `In-Class Activity/Presentation Day - Submission Checklist.md` (currently for the old model — to be replaced in Pass 1.5) as the final self-check.
+Use `In-Class Activity/Oral Defence Submission Checklist.docx` as the final self-check.
 
 ---
 

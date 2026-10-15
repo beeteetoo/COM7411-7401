@@ -26,18 +26,18 @@ Folder names `Week N_AM` / `Week N_PM` are shared by both threads. For Thread B,
 
 ## Working method (two passes)
 1. **Pass 1 — guides.** Facilitator Guide, all ten Session Guides and Zoom notes are updated together so the two threads stay coherent.
-2. **Pass 2 — decks.** One deck at a time, `Week 1_AM` → `Week 5_PM`, **pause for the user to check after each**. Take a backup copy of the .pptx (scratchpad) before any in-place edit. `PPTX Edit Instructions.md` is revised per deck as each is done.
+2. **Pass 2 — decks.** (Complete.) Originally one deck at a time with a pause after each; the user switched Weeks 3 to 5 to batch review. Take a backup copy of the .pptx (scratchpad) before any in-place edit. `PPTX Edit Instructions.md` is revised per deck as each is done.
 
 ## Session Guide conventions
 Every Session Guide has the same five parts: **1 Core (identical)** → **2 Thread A run sheet** → **3 Thread B run sheet** → **4 Between sessions / Zoom hook** → **5 Tips and parity check**.
 - Change Core and both threads together; if a task changes, say what happens in each thread.
 - Refer to slides by **section name, not slide number** (old numbers were unreliable; Pass 2 reconciles them).
 - Thread B run sheets plan ~2h45 live and leave the rest of the 3.5 h as open floor / drop-in.
-- Never define the four checks from memory; link to the module team's source once the user supplies it.
+- The four checks are defined only in `Facilitator Notes (Not for Students)/DRAFT - Four Checks Working Definitions.md` (course-team working definitions, written because the module team did not respond). Link to that file rather than restating; replace it if the module lead supplies a source.
 
 ## Pass 2 progress
-- Done: Week 1 AM (17 slides), Week 1 PM (20 slides). Next: Week 2 AM.
-- Decks are **forked per module** where content differs (Week 1 AM and PM done). Method: python-pptx in a venv (scratchpad) — build script trims/reorders/adds slides from the original, validate with the pptx skill's `validate.py --original`, render to check. Slides are **student-facing only** (no thread/meta labels); the user keeps their own folder backup, so edit in place.
+- **Done:** all ten session decks, both modules (Weeks 1 to 5), plus Zoom 2 to 5 decks (campus). Built with python-pptx from the Week 2 AM deck of each module; validated and rendered in LibreOffice but not yet opened in PowerPoint.
+- Decks are **forked per module** where content differs (all weeks done). Method: python-pptx in a venv (scratchpad) — build script trims/reorders/adds slides from the original, validate with the pptx skill's `validate.py --original`, render to check. Slides are **student-facing only** (no thread/meta labels); the user keeps their own folder backup, so edit in place.
 
 ## Two modules, two Moodle sites — naming convention
 COM7401 (On Campus) and COM7411 (Online) each have their **own Moodle site**; students only ever see their own module's files.
@@ -55,7 +55,7 @@ COM7401 (On Campus) and COM7411 (Online) each have their **own Moodle site**; st
 ## Week 2 additions
 - **Literature Search Task** (shared, pre-session, `Week 2_AM/Pre-Session Prep/`): precedes the Funnel and the PM critique; replaces the old "lunch task".
 - **Ethics:** COM7401 = Ethics Core live in Zoom 2 (Thursday); COM7411 = `Ethics Pack (Independent Study)/COM7411 ONLINE - Ethics in Research Activity.docx` (+ lecturer copy). Each module has its own labelled `Ethics Self-Assessment Worksheet` (old shared .md removed — it contained ARCHBT2 wording).
-- Week 2 AM decks forked (COM7401 / COM7411); the shared question-types pre-reading deck lives in `Pre-Session Prep/To be issues after week 1 PM/`.
+- Week 2 AM decks forked (COM7401 / COM7411); later weeks follow the same fork pattern; the shared question-types pre-reading deck lives in `Pre-Session Prep/To be issues after week 1 PM/`.
 
 ## Deck standing rules
 - **Keep each deck's closing sequence:** the unique cartoon + "Modern Science" slide ("From this point on… you're a scientific researcher!") followed by Reflection & Writing and Questions. Place new "next steps" slides *before* the Modern Science slide. (Restored in Week 1 PM and Week 2 AM; Week 1 AM ends on that slide.)
@@ -65,11 +65,17 @@ COM7401 (On Campus) and COM7411 (Online) each have their **own Moodle site**; st
 ## Things to Check files
 Each session folder (`Week N_AM` / `Week N_PM`) has a **`Things to Check.md`**: Moodle set-up, assumptions made, decisions awaiting the user, and risks. Create/update it whenever a session is worked on. Start each session's review with it.
 
+## Weeks 3 to 5 additions
+- **Shared student documents (unlabelled):** `Week 3_PM/Pre-Session Prep/Sampling and Data Collection Primer.docx`; `Week 4_PM/In-Class Activity/Thematic Analysis Coding Task.docx` (model answer in Facilitator Notes); `Week 5_AM/Pre-Session Prep/Oral Defence - A Guide to the Four Checks.docx`; `Week 5_AM/In-Class Activity/Defence Rehearsal Sheet.docx`; `Week 5_PM/In-Class Activity/Oral Defence Submission Checklist.docx`.
+- **Facilitator Notes:** `DRAFT - Four Checks Working Definitions.md`, `Model Defence - Tutor Outline.md`, `Recording Outlines - Bridge Resources.md`, `Tools/allocate_checks.py` (run locally on the real roster; never commit roster or output).
+- **Zoom Sessions:** Zoom 2 to 5 decks in `Zoom Day2` to `Zoom Day5` (COM7401 only); old-order guides archived.
+- `AI Worksheet .docx` (Week 4 AM) is now an optional extension; `Qual Cheat Sheet.docx` (Week 4 PM) is a reference table, not the coding task.
+
 ## Week 2 PM additions
 - **Critical Appraisal Worksheet** (stance-aware, shared, in-class) + lecturer copy; `Comparison_of_Literature_Reviews.docx` kept as a reference table with a corrected stance column. The long `Critical Evaluation Worksheet.docx` is now an optional extension.
 
 ## Open items (update as resolved)
-- Four-check definitions and allocation mechanism: user to supply.
+- Four-check definitions and allocation: working versions written (see above); module lead sign-off outstanding. Allocation list to be generated with `Facilitator Notes (Not for Students)/Tools/allocate_checks.py` from the real roster.
 - Report deadline *time* on the Saturday for COM7411 (same day as Week 4 PM session).
-- Literature searching demo (outline in Facilitator Notes) to record; upload to both Moodle sites. COM7411 Moodle needs the "Ethics cases" forum and the link to the university's current ethics guidance.
-- Zoom Day1–5 individual guides, Week 5 activity files and `PPTX Edit Instructions.md` still describe the old model.
+- Recordings to make: literature searching demo, sampling micro-lectures, qualitative worked example, tools demo (outlines in Facilitator Notes); upload to both Moodle sites. COM7411 Moodle needs the "Ethics cases" forum and the link to the university's current ethics guidance.
+- COM7411 brief was amended minimally (check issued in the Saturday live session; narrative dates aligned to its own table: Sat 28 Nov and Sat 5 Dec). Tell the module lead / Assessments so the approved record matches.

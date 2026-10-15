@@ -2,7 +2,7 @@
 
 **Maps to:** LO2, LO3; IC4 (data analysis and interpretation); IC7 (technology, partial)
 **Portfolio link:** Methodology section — a named, justified analysis approach (quant or mixed). **The written report is due at the end of Week 4**, so this session feeds the final draft directly.
-**Status:** Pass 1 (dual-thread). Deck not yet edited (Pass 2). Thread A = COM7401 campus; Thread B = COM7411 online (Monday evening).
+**Status:** Pass 1 (dual-thread) and Pass 2 done: decks `Quantitative Data Analysis (COM7401 On Campus).pptx` and `(COM7411 Online).pptx`. Thread A = COM7401 campus; Thread B = COM7411 online (Monday evening).
 
 ---
 
@@ -14,7 +14,7 @@
 - A decision on their overall analysis route (quant / qual / mixed) so they can draft the analysis paragraph before the deadline.
 
 ### Pre-session prep (both threads)
-- `Pre-Session Prep/AI Worksheet .docx` (light intro to AI-assisted analysis and the declaration requirement).
+- `Pre-Session Prep/AI Worksheet .docx` is now an **optional extension** only: it asks students to research an AI vendor platform, which this session deliberately leaves out. The AI and declaration rules are taught in the tools demo (Zoom 3 / recording).
 - **Tools demo** watched (Thread A: Zoom 3 live; Thread B: recording from the Week 3→4 bridge).
 - Bring the data collection plan from Week 3 PM.
 
@@ -22,7 +22,7 @@
 `In-Class Activity/Qian Methods Cheat Sheet. .docx` — apply the cheat sheet to a sample dataset/scenario, then map techniques to the student's own methodology.
 
 ### Content delivered live
-What data analysis is (descriptive / inferential / correlational / predictive framing) · tools overview (one view) · techniques: descriptive, dispersion, regression, factor, discriminant, time-series — one CS/DA/CY example each.
+What data analysis is (descriptive / inferential / correlational / predictive framing) · tools overview (one view) · techniques: descriptive, correlation, regression, hypothesis testing, ANOVA, time series — one CS/DA/CY example each (matched to the Quantitative Methods cheat sheet; cluster, factor and survival analysis are on the sheet only).
 **Not here:** AI/ML techniques, AI vendor platform comparison and the AI Data Collection activity — covered in the tools demo.
 
 ---
@@ -34,7 +34,7 @@ What data analysis is (descriptive / inferential / correlational / predictive fr
 | 0:00–0:10 | Objectives | Link to Zoom 3 tools demo; reminder that the report is due at the end of this week | Deck: intro |
 | 0:10–0:20 | What is data analysis? | Meaning from data; four framings | Deck: analysis overview |
 | 0:20–0:25 | Tools (brief) | One view; do not repeat the Zoom demo | Deck: tools |
-| 0:25–1:00 | Techniques walk-through | Descriptive, dispersion, regression, factor, discriminant, time series — one example each | Deck: techniques |
+| 0:25–1:00 | Techniques walk-through | Descriptive, correlation, regression, hypothesis testing, ANOVA, time series — one example each | Deck: techniques |
 | 1:00–1:15 | Break | | |
 | 1:15–2:30 | **Main task: Qian Methods Cheat Sheet** | Small groups match techniques to a scenario, then to their own methodology | Cheat sheet |
 | 2:30–2:45 | Share-back | 2–3 groups: which techniques and why | |

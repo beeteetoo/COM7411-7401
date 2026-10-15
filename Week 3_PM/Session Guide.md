@@ -2,7 +2,7 @@
 
 **Maps to:** LO2; IC3 (sampling and data collection strategies)
 **Portfolio link:** Extends the Methodology section with a concrete sampling and data collection plan (~900 words overall for Methodology).
-**Status:** Pass 1 (dual-thread). Deck not yet edited (Pass 2 — the most overloaded deck). Thread A = COM7401 campus; Thread B = COM7411 online (Saturday morning).
+**Status:** Pass 1 (dual-thread) and Pass 2 done: decks `Sampling and Data Collection (COM7401 On Campus).pptx` and `(COM7411 Online).pptx` (trimmed from 41 slides; sampling slides added). Thread A = COM7401 campus; Thread B = COM7411 online (Saturday morning).
 
 ---
 
@@ -15,7 +15,7 @@
 
 ### Pre-session prep (both threads)
 - Bring the Week 3 AM Research Design Framework output.
-- **Gap:** no dedicated reading exists. Recommended asset: a short **Sampling and Data Collection primer** (sampling theory, measurement scales, instrument design). Thread A uses it as a handout; Thread B as recorded micro-lectures (see Week 3 AM bridge).
+- **Primer written:** `Pre-Session Prep/Sampling and Data Collection Primer.docx` (sampling theory, measurement scales, instrument design). Thread A uses it as a handout; Thread B as the primer or recorded micro-lectures (see Week 3 AM bridge).
 
 ### Core task
 `In-Class Activity/Data collection Worksheet.docx` — select and justify data collection method(s) for the student's own study. Use ONE activity only (either "Creating the Instrument" or "Data Collection Methods" from the deck, not both).

@@ -2,7 +2,7 @@
 
 **Maps to:** LO1, LO2, LO3 (Part B — recorded oral defence)
 **Portfolio link:** Part B (20% — "oral defence: synthesis and communication"). The report is already submitted and final; this session prepares the 4-minute (±30 s) recorded defence, due at the end of this week.
-**Status:** Pass 1 (dual-thread). New session — no existing deck; build a short deck from this outline in Pass 2. Thread A = COM7401 campus; Thread B = COM7411 online (Monday evening).
+**Status:** Pass 1 (dual-thread) and Pass 2 done: decks `The Oral Defence Workshop (COM7401 On Campus).pptx` and `(COM7411 Online).pptx`. Thread A = COM7401 campus; Thread B = COM7411 online (Monday evening).
 
 ---
 
@@ -21,13 +21,13 @@
 ### Pre-session prep (both threads)
 - Re-read the submitted report; know your research question(s) word for word.
 - Read the Assessment Brief section on Part B and the oral-defence criterion.
-- Read the description of your assigned check (**source to be supplied by the module team — see `CLAUDE.md`**).
+- Read `Pre-Session Prep/Oral Defence - A Guide to the Four Checks.docx` (course-team working guide) and the section on your assigned check.
 
 ### Core task
-**Four-minute defence rehearsal** in triads (speaker / timekeeper / feedback-giver), followed by a self-plan for the recording. The existing `In-Class Activity/Portfolio Peer-Review Workshop.md` is for the old model and is to be replaced in Pass 1.5.
+**Four-minute defence rehearsal** in triads (speaker / timekeeper / feedback-giver), followed by a self-plan for the recording. Use `In-Class Activity/Defence Rehearsal Sheet.docx` (speaker preparation plus the four criterion questions for feedback).
 
 ### Content delivered live
-What the brief asks of Part B · what the oral criterion checks · what a strong defence sounds like (tutor-modelled example on a fictional proposal — **to be prepared**) · common pitfalls (re-describing the report, ignoring the check, over-running, reading a script) · recording logistics (tool such as OBS or Zoom/Teams recording, audio, lighting, file format, upload).
+What the brief asks of Part B · what the oral criterion checks · what a strong defence sounds like (tutor-modelled example on a fictional proposal — outline in `Facilitator Notes (Not for Students)/Model Defence - Tutor Outline.md`) · common pitfalls (re-describing the report, ignoring the check, over-running, reading a script) · recording logistics (tool such as OBS or Zoom/Teams recording, audio, lighting, file format, upload).
 
 ---
 
